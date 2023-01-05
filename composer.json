@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Matthew Ong",
+        "email": "21028831@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
